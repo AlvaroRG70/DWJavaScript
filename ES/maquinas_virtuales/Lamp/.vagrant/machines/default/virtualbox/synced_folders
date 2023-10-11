@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html/directorio_nuevo":{"guestpath":"/var/www/html/directorio_nuevo","hostpath":"/home/alumnado/Escritorio","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/alumnado/Escritorio/2º DAW/ES/maquinas_virtuales/Lamp","disabled":false,"__vagrantfile":true}}}
